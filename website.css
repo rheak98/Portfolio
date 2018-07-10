@@ -1,0 +1,29 @@
+h1{
+  color:#000000;
+}
+#name_intro{
+  color:green;
+}
+.content{
+  color:blue;
+  text-align: center;
+}
+
+table, th, td {
+    border: 2px solid #cecece;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+    }
+
+	progress {
+    width: 70%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #efefef;
+	}
+
+  .img-shape {
+    border: 3px solid white;
+    border-radius: 50%;
+    }
